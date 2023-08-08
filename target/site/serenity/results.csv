@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"User CURD test with steps","This will create new user","SUCCESS","2023-08-08T19:46:53.415+01:00[Europe/London]","0.0","8.97"
+"User CURD test with steps","Verify if the user was added to the application","SUCCESS","2023-08-08T19:47:02.455+01:00[Europe/London]","0.0","1.32"
+"User CURD test with steps","Update the user information and verify the updated information","SUCCESS","2023-08-08T19:47:03.775+01:00[Europe/London]","0.0","1.27"
+"User CURD test with steps","Delete the product and verify if the product is deleted!","SUCCESS","2023-08-08T19:47:05.048+01:00[Europe/London]","0.0","1.02"
